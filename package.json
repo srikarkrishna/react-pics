@@ -2,7 +2,7 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://srikarkrishna.github.io/react-pics",
+  "homepage": "http://srikarkrishna.github.io/react-pics",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.7.0",
