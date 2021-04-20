@@ -2,21 +2,21 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/srikarkrishna/react-pics",
+  "homepage": "https://srikarkrishna.github.io/react-pics",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.18.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^2.1.8"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+  "scripts": { 
+  "start": "react-scripts start",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
   "eslintConfig": {
     "extends": "react-app"
   },
